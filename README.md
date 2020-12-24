@@ -10,3 +10,5 @@ File ini berisi kode yang dibuat untuk keperluan tugas pemrograman mata kuliah p
 File ini berisi kode yang dibuat untuk keperluan tugas pemrograman mata kuliah pengantar kecerdasan buatan yang kedua, yaitu tentang sub bahasan Reasoning. Adapun tujuan utama dari program adalah memilih 20 orang yang nantinya akan menerima beasiswa pendidikan. Untuk menentukan 20  orang tersebut, maka akan dibangun sebuah program yang menerapkan algoritma Logika Fuzzy.
 3. Learning/Task 3 - Learning <br>
 File ini berisi kode yang dibuat untuk keperluan tugas pemrograman mata kuliah pengantar kecerdasan buatan yang ketiga, yaitu tentang sub bahasan Learning. Program yang akan dibangun adalah model yang dapat digunakan untuk memprediksi apakah seseorang terkena penyakit diabetes atau tidak berdasarkan dataset dan fitur yang ada. Adapun dataset yang digunakan adalah dataset PIMA Indians Diaabetes Database dengan model Learning yang akan dibuat yaitu model kNN (k-Nearest Neighbor)
+<br>
+Semua kode yang ada dalam repository ini dibuat dengan tanpa menggunakan library (from scratch) yang langsung menerapkan algoritma yang dimaksud. 
